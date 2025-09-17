@@ -17,7 +17,7 @@ Include screenshots of graphs or summarize findings.
 Key takeaways from the analysis:
 
 **Case 1**:_**DG Private vs DG Govt**_
-t = 4.4, df = 15
+    t = 4.4, df = 15
 Critical t ≈ ±2.13
 Two-tailed p ≈ 0.0006
 Rejects the null hypothesis
