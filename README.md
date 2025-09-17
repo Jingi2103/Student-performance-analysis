@@ -12,7 +12,11 @@ The dataset is available in `T-test data.csv`
 - Steps for analysis
 
 ## Results
-Case 1:<img width="906" height="678" alt="image" src="https://github.com/user-attachments/assets/2968483e-27fb-4f72-a742-a9a74d3fcb84" />
+Case 1:
+<img width="906" height="678" alt="image" src="https://github.com/user-attachments/assets/2968483e-27fb-4f72-a742-a9a74d3fcb84" />
+Case 2:
+<img width="998" height="690" alt="image" src="https://github.com/user-attachments/assets/1532a39f-57e5-42b4-bd6f-12c9a25ea826" />
+Case 3:
 
 
 ## Conclusion
