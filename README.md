@@ -17,4 +17,4 @@ Include screenshots of graphs or summarize findings.
 Key takeaways from the analysis.
 
 ## Code
-All code is available in the notebook `notebook.ipynb`.
+All code is available in the notebook `T-test analysis.ipynb`.
