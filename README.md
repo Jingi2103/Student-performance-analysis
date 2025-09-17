@@ -41,4 +41,4 @@ Conclusion : Such a low probability highlights a consistent performance advantag
 Factors determining such a huge difference : socioeconomic status, resources,  teaching quality etc..
 
 ## Code
-All code is available in the notebook `T-test analysis.ipynb`.
+All code is available in the notebook `Student_performance-ANALYSIS.ipynb`.
