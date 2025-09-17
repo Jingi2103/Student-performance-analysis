@@ -14,7 +14,31 @@ The dataset contains the marks of 53 students, including both DG alumni and Non-
 Include screenshots of graphs or summarize findings.
 
 ## Conclusion
-Key takeaways from the analysis.
+Key takeaways from the analysis:
+
+**Case 1**:DG Private vs DG Govt
+t = 4.4, df = 15
+Critical t ≈ ±2.13
+Two-tailed p ≈ 0.0006
+Rejects the null hypothesis
+Conclusion : The chance that the observed difference is due to random sampling is about 0.06 %, providing very strong evidence that ,DG-private students consistently outperform DG-government students in this ASER assessment.
+Factors including resources, or teaching quality should be improved which will contribute to the difference.
+
+**Case 2**: DG vs Non-DG
+t = 0.75, df = 47
+Critical t ≈ ±2.01
+Two-tailed p ≈ 0.46
+Fail to reject the null hypothesis
+Conclusion : A 46 % probability of seeing this difference by chance means there is no meaningful statistical evidence that DG alumni and Non-DG student differs  in  marks.
+Any small observed difference is likely just random variation.
+
+**Case 3**: Private vs Govt (All)
+t = 6.02, df = 38
+Critical t ≈ ±2.02
+Two-tailed p ≈ 1e-06
+Rejects the null Hypothesis
+Conclusion : Such a low probability highlights a consistent performance advantage among private-school students
+Factors determining such a huge difference : socioeconomic status, resources,  teaching quality etc..
 
 ## Code
 All code is available in the notebook `T-test analysis.ipynb`.
