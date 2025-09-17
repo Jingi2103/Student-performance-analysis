@@ -5,6 +5,7 @@ This project analyse the performance of DG alumni vs Non-DG alumni studying in g
 
 ## Dataset
 The dataset contains the marks of 53 students, including both DG alumni and Non-DG students, who are participating in the DG after-school program. The sample comprises students from both private and government schools.
+The dataset is available in `T-test data.csv`
 
 ## Methodology
 - T-test assumptions
